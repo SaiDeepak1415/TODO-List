@@ -1,8 +1,0 @@
-{
-    "python.linting.enabled": true,
-    "python.linting.flake8Enabled": true,
-    "python.linting.flake8Path": "flake8",
-    "python.linting.lintOnSave": true,  // Automatically lint on save
-    "python.linting.lintOnType": true   // Automatically lint while typing
-}
-    
